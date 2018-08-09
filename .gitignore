@@ -1,0 +1,10 @@
+.txt
+*/obj/
+*/Properties/
+*/bin/
+
+.vs/
+*.dll
+*.xml
+BuildServer/*
+Repo/files/*.cs
