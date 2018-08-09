@@ -1,0 +1,25 @@
+7002 131578788690985883 :  success
+131578788690985883 test success
+131578788751242203 : TestDriver1.cs(20,7): error CS0246: The type or namespace name 'TestedTwo' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver1.cs(20,27): error CS0246: The type or namespace name 'TestedTwo' could not be found (are you missing a using directive or an assembly reference?)
+
+7002 131578788811399357 :  success
+7002 131578788811399357 :  success
+7001 131578790015726852 :  success
+131578790015726852 test success
+131578790075889650 : TestDriver1.cs(20,7): error CS0246: The type or namespace name 'TestedTwo' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver1.cs(20,27): error CS0246: The type or namespace name 'TestedTwo' could not be found (are you missing a using directive or an assembly reference?)
+
+7001 131578790136052240 :  success
+7001 131578790136052240 :  success
+131578790136052240 test success
+131578790136052240 test success
+7002 131578791548791061 :  success
+131578791548791061 test success
+131578791608886238 : TestDriver1.cs(20,7): error CS0246: The type or namespace name 'TestedTwo' could not be found (are you missing a using directive or an assembly reference?)
+TestDriver1.cs(20,27): error CS0246: The type or namespace name 'TestedTwo' could not be found (are you missing a using directive or an assembly reference?)
+
+7002 131578791668911513 :  success
+7002 131578791668911513 :  success
+131578791668911513 test success
+131578791668911513 test success
